@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>androidx.databinding</groupId>
   <artifactId>databinding-common</artifactId>
-  <version>7.4.0-alpha09</version>
+  <version>8.1.0-alpha01</version>
   <name>androidx.databinding.databinding-common</name>
   <description>Shared library between Data Binding runtime lib and compiler</description>
   <url>http://tools.android.com/</url>

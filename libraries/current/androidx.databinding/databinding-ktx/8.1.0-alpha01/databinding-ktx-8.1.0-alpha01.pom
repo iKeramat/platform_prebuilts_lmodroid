@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>androidx.databinding</groupId>
   <artifactId>databinding-ktx</artifactId>
-  <version>7.4.0-alpha09</version>
+  <version>8.1.0-alpha01</version>
   <packaging>aar</packaging>
   <licenses>
     <license>
@@ -58,7 +58,7 @@
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-runtime</artifactId>
-      <version>7.4.0-alpha09</version>
+      <version>8.1.0-alpha01</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
